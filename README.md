@@ -1,5 +1,4 @@
-### Thiago Aguiar
-##### Desenvolvedor Front-End
+### Thiago Aguiar #### Desenvolvedor Front-End
 
 <!--
 **ThiagoAguiiar/ThiagoAguiiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
