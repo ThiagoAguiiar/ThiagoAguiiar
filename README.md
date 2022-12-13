@@ -1,6 +1,7 @@
 
   ### Thiago Aguiar
   #### Desenvolvedor Front-End
+  Este repositório ainda está em desenvolvivmento...
 
 
 <!--
