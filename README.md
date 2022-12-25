@@ -1,4 +1,4 @@
-# 💫 Thiago Marcelino Aguiar
+# Thiago Marcelino Aguiar
 Estudante Desenvolvedor Front-End
 
 
